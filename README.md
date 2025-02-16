@@ -1,5 +1,5 @@
-Project Folder Structure
-This directory contains files and folders related to simulation input files, processed data with PYTHON Jupyter Notebook, and presentation materials. Below is a description of the contents:
+Project Folder Structure\\
+This directory contains files and folders related to simulation input files, processed data with PYTHON Jupyter Notebook, and presentation materials. Below is a description of the contents:\\
 
 Files:
 Presentation.pptx – PowerPoint presentation summarizing key findings.

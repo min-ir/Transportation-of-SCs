@@ -9,7 +9,7 @@ This directory contains files and folders related to simulation input files, pro
 - **matched_lines_orders_scheduled.txt** – Text file containing scheduled order data.  
 - **matched_lines_all_SCs_jobs.txt** – Text file with matched lines of all SC executed jobs.  
 - **logger_all.log** – Log file containing execution logs.
-- - **requirements.txt** – This document provides information about the environment used for the Python scripts, including a list of all libraries and their versions. 
+- **requirements.txt** – This document provides information about the environment used for the Python scripts, including a list of all libraries and their versions. 
 
 ## 📁 Folders:
 - **input_simu/** – Contains analysis of inputs for the simulation.  
